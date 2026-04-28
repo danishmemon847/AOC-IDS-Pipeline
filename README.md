@@ -69,19 +69,6 @@ Performance:
 
 This repository supports reproducible research for the paper.
 
----
-
-## 🔗 Citation
-
-If you use this work, please cite:
-
-```
-@article{aoc_ids_improved,
-  title={Enhancing Autonomous Online Intrusion Detection for IoT with Balanced Learning, Reliable Pseudo-Labels, and Lightweight Architectures},
-  author={Afzaal, Hanzala and Memon, Danish and Raza, Chouhdary Bilal and Shahzad, Muhammad Khurram},
-  year={2025}
-}
-```
 
 ---
 
